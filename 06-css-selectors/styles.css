@@ -1,0 +1,48 @@
+p:first-of-type {
+    color: #7E8184;
+    font-style: italic;
+  }
+  .synopsis em {
+    font-style: normal;
+  }
+  
+  .call-to-action:link,
+  .call-to-action:visited {
+    font-style: italic;
+    background-color: #EEB75A;     /* Yellow */
+  }
+  
+  .call-to-action:hover,
+  .call-to-action:visited:hover {
+    background-color: #F5CF8E;     /* Light yellow */
+  }
+  #button-2 {
+    background-color: #D55C5F;    /* Red */
+  }
+  .call-to-action:active,
+  .call-to-action:visited:active {
+    background-color: #EEB75A;     /* Yellow */
+  }
+  
+  .page {
+    width: 600px;
+    margin: 0 auto;
+  }
+  .call-to-action {
+    font-style: italic;
+    background-color: #EEB75A;    /* Yellow */
+  }
+  a:link {
+    color: blue;
+    text-decoration: none;
+  }
+  a:visited {
+    color: purple;
+  }
+  a:hover {
+    color: aqua;
+    text-decoration: underline;
+  }
+  a:active {
+    color: red;
+  }
