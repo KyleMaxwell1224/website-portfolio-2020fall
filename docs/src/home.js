@@ -1,0 +1,19 @@
+import logo from './logo.svg';
+import './index.css';
+import NavBar from './NavBar';
+import Footer from './Footer';
+  
+function Home() {
+  return (
+    <div id='main'>
+    <NavBar/>
+    <div id='page'>
+      <h1>My Personal Portfolio</h1>
+      <p></p>
+    </div>
+    <Footer/>
+    </div>
+  );
+}
+
+export default Home;
