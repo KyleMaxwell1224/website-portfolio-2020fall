@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/website-portfolio-2020fall/static/css/main.ade5f552.chunk.css",
-    "main.js": "/website-portfolio-2020fall/static/js/main.d7da0085.chunk.js",
-    "main.js.map": "/website-portfolio-2020fall/static/js/main.d7da0085.chunk.js.map",
-    "runtime-main.js": "/website-portfolio-2020fall/static/js/runtime-main.9fbc0031.js",
-    "runtime-main.js.map": "/website-portfolio-2020fall/static/js/runtime-main.9fbc0031.js.map",
-    "static/js/2.4650b9fe.chunk.js": "/website-portfolio-2020fall/static/js/2.4650b9fe.chunk.js",
-    "static/js/2.4650b9fe.chunk.js.map": "/website-portfolio-2020fall/static/js/2.4650b9fe.chunk.js.map",
-    "static/js/3.4cfb5e00.chunk.js": "/website-portfolio-2020fall/static/js/3.4cfb5e00.chunk.js",
-    "static/js/3.4cfb5e00.chunk.js.map": "/website-portfolio-2020fall/static/js/3.4cfb5e00.chunk.js.map",
-    "index.html": "/website-portfolio-2020fall/index.html",
-    "static/css/main.ade5f552.chunk.css.map": "/website-portfolio-2020fall/static/css/main.ade5f552.chunk.css.map",
-    "static/js/2.4650b9fe.chunk.js.LICENSE.txt": "/website-portfolio-2020fall/static/js/2.4650b9fe.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/website-portfolio-2020fall/static/media/logo.103b5fa1.svg"
+    "main.css": "/website-portfolio-2020fall/docs/static/css/main.7ad4d8e6.chunk.css",
+    "main.js": "/website-portfolio-2020fall/docs/static/js/main.0fc5c8ca.chunk.js",
+    "main.js.map": "/website-portfolio-2020fall/docs/static/js/main.0fc5c8ca.chunk.js.map",
+    "runtime-main.js": "/website-portfolio-2020fall/docs/static/js/runtime-main.7b818f17.js",
+    "runtime-main.js.map": "/website-portfolio-2020fall/docs/static/js/runtime-main.7b818f17.js.map",
+    "static/js/2.b84d3271.chunk.js": "/website-portfolio-2020fall/docs/static/js/2.b84d3271.chunk.js",
+    "static/js/2.b84d3271.chunk.js.map": "/website-portfolio-2020fall/docs/static/js/2.b84d3271.chunk.js.map",
+    "static/js/3.36b293da.chunk.js": "/website-portfolio-2020fall/docs/static/js/3.36b293da.chunk.js",
+    "static/js/3.36b293da.chunk.js.map": "/website-portfolio-2020fall/docs/static/js/3.36b293da.chunk.js.map",
+    "index.html": "/website-portfolio-2020fall/docs/index.html",
+    "static/css/main.7ad4d8e6.chunk.css.map": "/website-portfolio-2020fall/docs/static/css/main.7ad4d8e6.chunk.css.map",
+    "static/js/2.b84d3271.chunk.js.LICENSE.txt": "/website-portfolio-2020fall/docs/static/js/2.b84d3271.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/website-portfolio-2020fall/docs/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fbc0031.js",
-    "static/js/2.4650b9fe.chunk.js",
-    "static/css/main.ade5f552.chunk.css",
-    "static/js/main.d7da0085.chunk.js"
+    "static/js/runtime-main.7b818f17.js",
+    "static/js/2.b84d3271.chunk.js",
+    "static/css/main.7ad4d8e6.chunk.css",
+    "static/js/main.0fc5c8ca.chunk.js"
   ]
 }
