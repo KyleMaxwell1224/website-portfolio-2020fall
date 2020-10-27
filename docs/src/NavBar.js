@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-import Sphonx from './Sphonx.js'
-import Home from './home';
-import Movies from './Movies';
 import {
   BrowserRouter as Router,
   Switch,
