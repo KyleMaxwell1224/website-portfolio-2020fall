@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import {  Route, Switch } from 'react-router-dom';
+import React from 'react';
+import {  Route, Switch,  Redirect} from 'react-router-dom';
 import Home from './home.js';
 import Sphonx from './Sphonx.js';
 import Movies from './Movies.js';
@@ -8,9 +8,10 @@ function App() {
     return (
         <main>
             <Switch>
-                <Route path='/' component = {Home} exact/>
+                <Route exact path='/' component = {Home} />
                 <Route path='/sphonx' component={Sphonx}/>
                 <Route path='/best_movies' component={Movies}/>
+                <Redirect to="/" />
             </Switch>
         </main>
     )

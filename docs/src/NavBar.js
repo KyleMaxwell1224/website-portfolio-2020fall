@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Sphonx from './Sphonx.js'
-import Home from './home'
+import Home from './home';
+import Movies from './Movies';
 import {
   BrowserRouter as Router,
   Switch,
@@ -20,6 +21,7 @@ class NavBar extends Component {
            <Link class="link" to="/sphonx">Meet my cat</Link>
            <Link class="link" to="/best_movies">Top movies</Link>
          </nav>
+
         </div>
       </React.Fragment>
     );
