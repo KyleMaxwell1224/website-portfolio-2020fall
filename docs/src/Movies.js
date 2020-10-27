@@ -1,19 +1,17 @@
-import logo from './logo.svg';
 import './index.css';
 import NavBar from './NavBar';
 import Footer from './Footer';
   
-function Home() {
+function Movies() {
   return (
-    <div class='main'>
+    <div id='main'>
     <NavBar/>
     <div class='page'>
-      <h1>My Personal Portfolio</h1>
+      <h1>Top Movies</h1>
       <p></p>
     </div>
     <Footer/>
     </div>
   );
 }
-
-export default Home;
+export default Movies;

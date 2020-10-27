@@ -3,17 +3,16 @@ import './index.css';
 import NavBar from './NavBar';
 import Footer from './Footer';
   
-function Home() {
+function Sphonx() {
   return (
-    <div class='main'>
+    <div id='main'>
     <NavBar/>
     <div class='page'>
-      <h1>My Personal Portfolio</h1>
+      <h1>The Great Sphonx</h1>
       <p></p>
     </div>
     <Footer/>
     </div>
   );
 }
-
-export default Home;
+export default Sphonx;
