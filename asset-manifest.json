@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/website-portfolio-2020fall/static/css/main.7ad4d8e6.chunk.css",
-    "main.js": "/website-portfolio-2020fall/static/js/main.953ebe80.chunk.js",
-    "main.js.map": "/website-portfolio-2020fall/static/js/main.953ebe80.chunk.js.map",
+    "main.css": "/website-portfolio-2020fall/static/css/main.e43849e7.chunk.css",
+    "main.js": "/website-portfolio-2020fall/static/js/main.e4f164cf.chunk.js",
+    "main.js.map": "/website-portfolio-2020fall/static/js/main.e4f164cf.chunk.js.map",
     "runtime-main.js": "/website-portfolio-2020fall/static/js/runtime-main.ddbbb9b7.js",
     "runtime-main.js.map": "/website-portfolio-2020fall/static/js/runtime-main.ddbbb9b7.js.map",
-    "static/js/2.ac6aeb61.chunk.js": "/website-portfolio-2020fall/static/js/2.ac6aeb61.chunk.js",
-    "static/js/2.ac6aeb61.chunk.js.map": "/website-portfolio-2020fall/static/js/2.ac6aeb61.chunk.js.map",
+    "static/js/2.333bfe93.chunk.js": "/website-portfolio-2020fall/static/js/2.333bfe93.chunk.js",
+    "static/js/2.333bfe93.chunk.js.map": "/website-portfolio-2020fall/static/js/2.333bfe93.chunk.js.map",
     "static/js/3.36b293da.chunk.js": "/website-portfolio-2020fall/static/js/3.36b293da.chunk.js",
     "static/js/3.36b293da.chunk.js.map": "/website-portfolio-2020fall/static/js/3.36b293da.chunk.js.map",
     "index.html": "/website-portfolio-2020fall/index.html",
-    "static/css/main.7ad4d8e6.chunk.css.map": "/website-portfolio-2020fall/static/css/main.7ad4d8e6.chunk.css.map",
-    "static/js/2.ac6aeb61.chunk.js.LICENSE.txt": "/website-portfolio-2020fall/static/js/2.ac6aeb61.chunk.js.LICENSE.txt",
-    "static/media/logo.2d27ead7.svg": "/website-portfolio-2020fall/static/media/logo.2d27ead7.svg"
+    "static/css/main.e43849e7.chunk.css.map": "/website-portfolio-2020fall/static/css/main.e43849e7.chunk.css.map",
+    "static/js/2.333bfe93.chunk.js.LICENSE.txt": "/website-portfolio-2020fall/static/js/2.333bfe93.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/website-portfolio-2020fall/static/media/logo.2d27ead7.svg",
+    "static/media/sphonx_laptop.5d455869.png": "/website-portfolio-2020fall/static/media/sphonx_laptop.5d455869.png",
+    "static/media/sphonx_window.37a7b3d8.png": "/website-portfolio-2020fall/static/media/sphonx_window.37a7b3d8.png",
+    "static/media/the_sphonx.c78dbb3d.png": "/website-portfolio-2020fall/static/media/the_sphonx.c78dbb3d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ddbbb9b7.js",
-    "static/js/2.ac6aeb61.chunk.js",
-    "static/css/main.7ad4d8e6.chunk.css",
-    "static/js/main.953ebe80.chunk.js"
+    "static/js/2.333bfe93.chunk.js",
+    "static/css/main.e43849e7.chunk.css",
+    "static/js/main.e4f164cf.chunk.js"
   ]
 }
