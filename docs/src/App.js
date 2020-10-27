@@ -8,10 +8,10 @@ function App() {
     return (
         <main>
             <Switch>
+                {/* This is where we declare every route. We make the actual links in NavBar.js */}
                 <Route exact path='/' component = {Home} />
                 <Route path='/sphonx' component={Sphonx}/>
                 <Route path='/best_movies' component={Movies}/>
-                <Redirect to="/" />
             </Switch>
         </main>
     )

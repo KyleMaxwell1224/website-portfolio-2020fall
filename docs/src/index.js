@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { BrowserRouter} from 'react-router-dom';
+import {  HashRouter} from 'react-router-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
-  <BrowserRouter>
+  //This HashRouter is vital to the code. It routes from file to file, and it also
+  //ensures that we don't get an error 404 on GitHub pages.
+  <HashRouter >
+{ /* Now, we initialize our App function, which creates a list of routes  */ }
     <App />
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById('root')
 );
 
