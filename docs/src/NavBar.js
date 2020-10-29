@@ -17,7 +17,7 @@ class NavBar extends Component {
            {/* Here we create our links for the navbar. They use the switch made in App.js */}
            <Link class="link" to="/">Home</Link>
            <Link class="link" to="/sphonx">Meet my cat</Link>
-           <Link class="link" to="/best_movies">Top movies</Link>
+           <Link class="link" to="/travels">Travelling</Link>
          </nav>
 
         </div>

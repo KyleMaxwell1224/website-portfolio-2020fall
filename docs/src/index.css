@@ -104,6 +104,9 @@ h1{
 }
 .sphonx_images{
   width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-style: solid;
   border-color: blueviolet;
 }
