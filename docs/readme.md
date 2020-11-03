@@ -1,5 +1,5 @@
-Your final project files (html, css, images, etc) should go in here. **One of those files should be called index.html**: it will become your landing page. (Otherwise, your site will land on this readme.)
+## View my website here: https://kylemaxwell1224.github.io/website-portfolio-2020fall/#/
 
-You can then publish this site to the open web: just go to your repository's Settings and scroll down to the GitHub Pages section, and change the source from "none" to "master branch /docs folder."
+All of my source code is here. However, I wrote all of my code in JavaScript, using a library called ReactJS. If you are curious to read the code, the majority of the code is within the src folder. In the src folder, you'll see files that mostly end in .js. This is where the design of the webpages takes place. In App.js, I declare all the routes of my website. Then, in NavBar.js, I create the actual links that utilize these routes. NavBar.js and Footer.js both serve the role of components for my website. I build these components once, then use them on every page I make. The vast, vast majority of the components on my page are from a React framework called Material-UI. Essentially, they've already created components (like the Progress Bars on my homepage) that already have bootstrapped CSS. 
 
-![activate GitHub Pages from repo Settings by changing the source](https://github.com/benmiller314/cdm2020spring/blob/gh-pages/assets/img/github-pages-activate.gif?raw=true)
+All of the source code is represented in the GitHub link to my page. 

@@ -8,7 +8,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-
+.my-pic{
+  width: 40%;
+}
+.description{
+  margin-left: auto;
+  width: 40%;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -51,7 +57,7 @@ h1{
 .footer-text{
   text-align: center;
   padding-bottom: 1rem;
-  color: #FFFDF7;
+  color: black;
 }
 
 #header{
@@ -68,6 +74,12 @@ h1{
 
 .imgs-in-carousel{
   width: 20px;
+}
+
+.progress-label{
+  display: inline-block;
+  margin-top: 1rem;
+  margin-bottom: .2rem;
 }
 
 #header-text{
@@ -95,13 +107,17 @@ h1{
 }
 .text{
   margin-right: 2em;
+  margin-left: 2em;
   padding: 1em;
   border-style: solid;
   border-color: rgb(85, 6, 211) ;
 }
-
+.imgs-in-carousel{
+  padding-bottom: 2rem;
+}
 .column {
   margin-top: 2rem;
+  text-align: center;
   float: left;
   width: 50%;
 }
@@ -143,6 +159,7 @@ h1{
   border-style: groove;
   border-color: black;
   background-color: #84BC60;
+  color: black;
 }
 
 .social-icons:hover{
