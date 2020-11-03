@@ -23,7 +23,7 @@ function Home() {
       <br/>
       <b>SCHOOL YEAR: </b> Undergraduate Junior 
       <br/>    
-      <b>PROFFESIONAL INTERESTS: </b> Machine Learning, Data Science, Software Engineering, Full-Stack Development, Back-End Development
+      <b>PROFESSIONAL INTERESTS: </b> Machine Learning, Data Science, Software Engineering, Full-Stack Development, Back-End Development
       <br/>
       <b>FAVORITE MUSICIANS (no order): </b> XXXTentacion, Dua Lipa, Denzel Curry, A$AP Rocky
       <br/>      
