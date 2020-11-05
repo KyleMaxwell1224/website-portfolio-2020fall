@@ -15,9 +15,9 @@ function Travels() {
   return (
     <div id='main'>
     <NavBar/>
-    <div class='page'>
+    <div className='page'>
       <h1>Travels</h1>
-      <h2 class="subheading">Eastern Europe - 2016</h2>
+      <h2 className="subheading">Eastern Europe - 2016</h2>
        <p className="text">I visited many Eastern European countries in 2016 because I participated
         in my school's foreign exchange club. Among the many cities we visted, my favorite city
         by far was Prague, Czech Republic. Here are some pictures from my trip there.</p>

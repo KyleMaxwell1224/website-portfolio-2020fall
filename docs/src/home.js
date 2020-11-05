@@ -7,9 +7,9 @@ function Home() {
   return (
     <div id='main'>
     <NavBar/>
-    <div class='page'>
+    <div className='page'>
       <h1>My Personal Portfolio</h1>
-      <div class="row">
+      <div className="row">
       <div className= "column">
         <img className="sphonx_images" alt="Greek Sing 2020" src={Me}></img>
       </div>
